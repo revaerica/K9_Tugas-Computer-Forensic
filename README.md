@@ -5,7 +5,7 @@
 - **Image Name:** `kel9_windows.img`
 - **Disk Capacity:** 256 MB (satu volume NTFS, label `KASUS-KEL9`)
 - **SHA-256 (kel9_windows.img):** `92F4A235B023E0F5912598D327BC1D1A8EF20F5F76DF9958ACA3FD595BAE2F69`
-- - **Link:** https://drive.google.com/file/d/11oS3yfCz9Ysj68rrp6DZ2dGgKBNav6qZ/view?usp=drive_link
+- **Link:** https://drive.google.com/file/d/11oS3yfCz9Ysj68rrp6DZ2dGgKBNav6qZ/view?usp=drive_link
 
 ## Anggota Kelompok 9
 | No. | Nama | NRP |
